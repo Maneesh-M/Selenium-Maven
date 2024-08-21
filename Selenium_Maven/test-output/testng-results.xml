@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="21630" started-at="2020-03-11T12:26:58Z" finished-at="2020-03-11T12:27:19Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="21630" started-at="2020-03-11T12:26:58Z" finished-at="2020-03-11T12:27:19Z">
+      <class name="TestCases.Testcase_SelHQ">
+        <test-method status="PASS" signature="start()[pri:0, instance:TestCases.Testcase_SelHQ@7cd62f43]" name="start" is-config="true" duration-ms="8081" started-at="2020-03-11T12:26:58Z" finished-at="2020-03-11T12:27:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method status="PASS" signature="run()[pri:0, instance:TestCases.Testcase_SelHQ@7cd62f43]" name="run" duration-ms="11007" started-at="2020-03-11T12:27:06Z" finished-at="2020-03-11T12:27:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- run -->
+        <test-method status="PASS" signature="stop()[pri:0, instance:TestCases.Testcase_SelHQ@7cd62f43]" name="stop" is-config="true" duration-ms="2501" started-at="2020-03-11T12:27:17Z" finished-at="2020-03-11T12:27:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- stop -->
+      </class> <!-- TestCases.Testcase_SelHQ -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
